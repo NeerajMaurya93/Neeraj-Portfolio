@@ -45,7 +45,7 @@ function Home() {
                         <li><a href="https://www.instagram.com/smart_lucky9341/profilecard/?igsh=MXU2MmI4dzcwcXl3OQ=="target='_blank'><FaInstagram  className='text-2xl cursor-pointer'/></a></li>
                         </ul>
                     </div>
-                    <div className='space-y-2'>
+                    <div className='space-y-3'>
                     <h1 className='font-bold'>Currently working on</h1>
                         <div className='flex space-x-5'>
                             <SiMongodb className='text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px]' />
