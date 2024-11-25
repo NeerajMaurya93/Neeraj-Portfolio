@@ -17,7 +17,7 @@ function Home() {
             <div className='md:w-1/2 mt-12 md:mt-24 space-y-2 order-2 md:order-1'>
                 <span>Welcome in my feed</span>
                     <div className='flex space-x-1 text-3xl '> 
-                     <h1>Hello,i'm a</h1>
+                     <h1>Hello,I'm</h1>
                      {/* <span className='text-red-700 font-bold'>Developer</span> */}
                      <ReactTyped
                         className='text-red-700 font-bold'
