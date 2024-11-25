@@ -1,6 +1,8 @@
 import React from 'react'
 import pic from '../../public/My.jpg'
 import { FaFacebookSquare } from "react-icons/fa";
+import { FaInstagram } from "react-icons/fa";
+
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaYoutube } from "react-icons/fa6";
 import { FaTelegram } from "react-icons/fa";
@@ -35,11 +37,12 @@ function Home() {
                     <div className='space-y-3'>
                         <h1 className='font-bold '>Available on</h1>
                         <ul className='flex space-x-5'>
-                        <li><a href="https://www.facebook.com/"target='_blank' >
+                        <li><a href="https://www.facebook.com/maurya.lucky.7?mibextid=ZbWKwL"target='-blank' >
                         <FaFacebookSquare className='text-2xl cursor-pointer'  /></a> </li>
-                        <li> <a href="https://in.linkedin.com/"target='_blank'><FaLinkedinIn className='text-2xl cursor-pointer' /></a></li>
+                        <li> <a href="https://www.linkedin.com/in/neeraj-maurya-0a183b304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"target='_blank'><FaLinkedinIn className='text-2xl cursor-pointer' /></a></li>
                         <li><a href="https://www.youtube.com/"target='_blank'><FaYoutube  className='text-2xl cursor-pointer'/></a></li>
-                        <li><a href="https://web.telegram.org/"target='_blank'><FaTelegram  className='text-2xl cursor-pointer'/></a></li>
+                        <li><a href="http://t.me/MAURYA_Ji1"target='_blank'><FaTelegram  className='text-2xl cursor-pointer'/></a></li>
+                        <li><a href="https://www.instagram.com/smart_lucky9341/profilecard/?igsh=MXU2MmI4dzcwcXl3OQ=="target='_blank'><FaInstagram  className='text-2xl cursor-pointer'/></a></li>
                         </ul>
                     </div>
                     <div className='space-y-2'>
