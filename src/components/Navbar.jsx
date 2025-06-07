@@ -24,7 +24,7 @@ function Navbar() {
         <div className='flex space-x-2'>
             <img src={pic} className='h-12 w-12 rounded-full' alt="" />
             <h1 className='font-semibold text-xl cursor-pointer'>Nee<samp className='text-green-700 text-2xl'>raj</samp>
-            <p className='text-sm'>web developer</p></h1>
+            <p className='text-sm'>software engineer</p></h1>
         </div>
         {/* desktop navbar */}
         <div>
