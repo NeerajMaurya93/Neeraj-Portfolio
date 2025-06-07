@@ -25,7 +25,7 @@ function Contect() {
   return (
    <>
    <div name="Contect" className='max-w-screen-2xl container mx-auto px-4 md:px-20 my-16'>
-        <h1 className='text-3xl font-bold mb-4'>Contect me</h1>
+        <h1 className='text-3xl font-bold mb-4'>Contact me</h1>
         <span>Please fill out the form below to contect me </span>
             <div className='flex flex-col items-center justify-center mt-10'>
               <form

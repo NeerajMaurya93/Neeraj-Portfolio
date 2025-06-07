@@ -15,7 +15,7 @@ function Navbar() {
     },{
         id:4,text:"Experiance"
     },{
-        id:5,text:"Contect"
+        id:5,text:"Contact"
     }]
   return (
    <>

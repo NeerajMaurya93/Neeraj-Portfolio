@@ -35,7 +35,7 @@ function Experiance() {
         <div> 
             <h1 className=' text-3xl font-bold mb-5'>Experiance</h1>
             <p className=' font semibold'>
-                I've more than 6 Month of experiance in below technologies.
+                I've more than 3 Month of experiance in below technologies.
             </p>
             <div className='grid grid-cols-2 md:grid-cols-5 gap-28 my-10'>
              {
